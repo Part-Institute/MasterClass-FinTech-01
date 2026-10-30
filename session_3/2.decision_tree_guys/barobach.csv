@@ -1,0 +1,21 @@
+﻿name,age,gender,education_level,education_status,major,city,marital_status,numpy,pandas,matplotlib,machine_learning,deep_learning,sql,target
+آرمین,22,male,bachelor,in_progress,mathematics,Mashhad,,1,1,1,1,1,1,0
+آریان عمرانی,23,male,bachelor,completed,computer_engineering,Mashhad,,0,0,0,0,0,1,1
+امیرحسین رضازاده حنایی,26,male,master,in_progress,computer_science,Mashhad,,1,1,1,1,1,1,1
+امیررضا,22,male,bachelor,in_progress,computer_engineering,Mashhad,,1,1,1,1,1,1,0
+ساجده,26,female,master,completed,mathematics,Tehran,single,1,1,1,1,1,1,0
+سروش,25,male,bachelor,completed,environmental_engineering,Mashhad,single,1,1,1,1,1,1,0
+سید آرین هاشمی,24,male,bachelor,in_progress,industrial_engineering,Tehran,single,1,1,1,1,0,0,1
+سید عرفان,26,male,phd,in_progress,biomedical_engineering,Mashhad,married,1,1,1,1,1,0,0
+سیده عادله مصطفوی,21,female,bachelor,in_progress,industrial_engineering,Mashhad,,1,1,1,1,1,1,1
+علی شهروزی,23,male,master,in_progress,computer_engineering,Mashhad, ,1,1,1,1,0,1,1
+علیرضا,24,male,bachelor,completed,statistics,Mashhad,married,1,1,1,1,1,0,0
+فائزه آزادی,32,female,master,completed,computer_engineering,Mashhad,single,1,1,1,1,1,1,1
+فائزه کریمی,20,female,,in_progress,electrical_engineering,Mashhad,,1,1,1,1,1,0,1
+فاطمه,23,female,bachelor,completed,computer_science,Mashhad,single,1,1,1,1,1,1,0
+فاطمه سلطانی,24,female,master,in_progress,computer_engineering,Mashhad,,1,1,1,1,1,1,1
+محدثه,25,female,bachelor,completed,computer_engineering,Mashhad,single,0,1,0,0,0,1,0
+محمد مهدی فلفلی,22,male,bachelor,in_progress,computer_science,Mashhad,single,1,1,1,1,1,0,1
+مریم السادات صهبایی رضوی,24,female,bachelor,in_progress,computer_engineering,Mashhad,single,1,1,1,1,0,0,1
+مهرداد محمدیان,26,male,master,in_progress,computer_engineering,Mashhad,,1,1,1,1,1,1,1
+یاسین باقریان,21,male,bachelor,in_progress,industrial_engineering,Mashhad,single,0,0,0,0,0,0,1
